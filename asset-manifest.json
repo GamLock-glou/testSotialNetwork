@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testSotialNetwork/static/css/main.efc44217.chunk.css",
-    "main.js": "/testSotialNetwork/static/js/main.2ecd2eb6.chunk.js",
-    "main.js.map": "/testSotialNetwork/static/js/main.2ecd2eb6.chunk.js.map",
+    "main.js": "/testSotialNetwork/static/js/main.613d975e.chunk.js",
+    "main.js.map": "/testSotialNetwork/static/js/main.613d975e.chunk.js.map",
     "runtime~main.js": "/testSotialNetwork/static/js/runtime~main.fc8bba63.js",
     "runtime~main.js.map": "/testSotialNetwork/static/js/runtime~main.fc8bba63.js.map",
     "static/js/2.9636c4da.chunk.js": "/testSotialNetwork/static/js/2.9636c4da.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.e87896ff.chunk.js": "/testSotialNetwork/static/js/4.e87896ff.chunk.js",
     "static/js/4.e87896ff.chunk.js.map": "/testSotialNetwork/static/js/4.e87896ff.chunk.js.map",
     "index.html": "/testSotialNetwork/index.html",
-    "precache-manifest.a9abf7aa181a046e859ccaa1460ccccc.js": "/testSotialNetwork/precache-manifest.a9abf7aa181a046e859ccaa1460ccccc.js",
+    "precache-manifest.8347cc82daee4605d7cdf690d0adc803.js": "/testSotialNetwork/precache-manifest.8347cc82daee4605d7cdf690d0adc803.js",
     "service-worker.js": "/testSotialNetwork/service-worker.js",
     "static/css/3.aa8bf3fe.chunk.css.map": "/testSotialNetwork/static/css/3.aa8bf3fe.chunk.css.map",
     "static/css/4.b7b54eff.chunk.css.map": "/testSotialNetwork/static/css/4.b7b54eff.chunk.css.map",
