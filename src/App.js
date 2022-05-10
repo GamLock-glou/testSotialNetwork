@@ -12,7 +12,7 @@ import { connect } from 'react-redux';
 import { withRouter } from 'react-router-dom';
 import { compose } from 'redux';
 import Preloader from './components/common/Preloader/Preloader';
-import {BrowserRouter} from "react-router-dom";
+import {HashRouter} from "react-router-dom";
 import {Provider} from "react-redux";
 import store from "./redux/redux-store";
 import withSuspense from './components/hoc/withSuspense';
@@ -58,9 +58,9 @@ const AppContainer = compose (
        )(App);
 
 export const MainApp = (props) => {
-       return <BrowserRouter basename={process.env.PUBLIC_URL}>
+       return <HashRouter>
         <Provider store={store}>
             <AppContainer/>
         </Provider>
-    </BrowserRouter>
+    </HashRouter>
 }
